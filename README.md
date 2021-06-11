@@ -10,7 +10,7 @@ Software Developer and aspiring Game Developer
 
 # Project 
 
-![Video](src/assets/social-app.gif)
+![Video](src/assets/ionic-todo.gif)
 
 ## Experience with Project
 
