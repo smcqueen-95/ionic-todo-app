@@ -36,21 +36,25 @@ Software Developer and aspiring Game Developer
 # Project setup
 
 Once the project is downloaded locally on your device do the following:
+
 `
 npm install
 `
 
 If there are dependencies that need updating or you want to check:
+
 `
 npm outdated
 `
 
 If there are outdated dependencies:
+
 `
 npm update
 `
 
 To check and update packages in package.json:
+
 `
 npx npm-check-updates -u
 `
@@ -62,13 +66,11 @@ ng serve
 `
 
 `
-
 ionic buld capacitor ios
 ionic build capacitor android
 `
 
 `
-
 npx cap open ios
 npx cap open android
 `
